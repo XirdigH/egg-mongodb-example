@@ -52,7 +52,7 @@
     "egg-view-nunjucks": "^2.0.0",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
-    "redux": "3.4.0",
+    "redux": "3.7.2",
     "redux-logger": "2.6.1",
     "redux-thunk": "2.0.1",
     "rucksack-css": "^0.9.1"
