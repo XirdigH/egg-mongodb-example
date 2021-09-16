@@ -33,7 +33,7 @@
     "less-loader": "2.2.1",
     "less-plugin-npm-import": "^2.1.0",
     "style-loader": "0.13.1",
-    "eslint": "1.8.0",
+    "eslint": "6.6.0",
     "eslint-loader": "1.1.0",
     "node-sass": "3.8.0",
     "postcss": "^5.0.19",
@@ -41,7 +41,7 @@
     "sass-loader": "4.0.0",
     "webpack": "1.13.2",
     "webpack-dev-middleware": "1.6.1",
-    "webpack-hot-middleware": "2.12.2"
+    "webpack-hot-middleware": "2.25.1"
   },
   "dependencies": {
     "antd": "^2.8.2",
