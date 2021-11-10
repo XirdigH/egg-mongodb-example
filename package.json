@@ -21,7 +21,7 @@
     "babel-eslint": "4.1.8",
     "babel-plugin-import": "^1.0.1",
     "express": "^4.13.4",
-    "html-webpack-plugin": "^2.22.0",
+    "html-webpack-plugin": "^4.0.0",
     "case-sensitive-paths-webpack-plugin": "^1.1.4",
     "chalk": "^1.1.1",
     "commander": "~2.9.0",
@@ -39,7 +39,7 @@
     "postcss": "^5.0.19",
     "postcss-loader": "0.11.1",
     "sass-loader": "4.0.0",
-    "webpack": "1.13.2",
+    "webpack": "3.0.0",
     "webpack-dev-middleware": "1.6.1",
     "webpack-hot-middleware": "2.12.2"
   },
