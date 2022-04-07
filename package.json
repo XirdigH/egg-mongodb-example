@@ -38,15 +38,15 @@
     "node-sass": "3.8.0",
     "postcss": "^5.0.19",
     "postcss-loader": "0.11.1",
-    "sass-loader": "4.0.0",
-    "webpack": "1.13.2",
+    "sass-loader": "6.0.7",
+    "webpack": "4.0.0",
     "webpack-dev-middleware": "1.6.1",
     "webpack-hot-middleware": "2.12.2"
   },
   "dependencies": {
     "antd": "^2.8.2",
     "egg": "^1.0.0",
-    "egg-mongoose": "^1.1.1",
+    "egg-mongoose": "^3.0.0",
     "egg-security": "^1.8.0",
     "egg-validate": "^1.0.0",
     "egg-view-nunjucks": "^2.0.0",
